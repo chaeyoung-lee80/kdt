@@ -24,4 +24,4 @@ else:
     except Exception as e:
         print(f"기타 오류 발생: {e}")
 
-        수정
+        
