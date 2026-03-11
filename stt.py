@@ -23,3 +23,5 @@ else:
         print(f"Google 서비스에 접근할 수 없습니다; {e}")
     except Exception as e:
         print(f"기타 오류 발생: {e}")
+
+        수정
